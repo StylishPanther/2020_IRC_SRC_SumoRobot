@@ -1,13 +1,13 @@
 # 2020_IRC_SRC_SumoRobot
 
-[단국대학교 MAZE](https://maze.co.kr) Hertz팀 개발내용
+[단국대학교 MAZE](http://www.maze.co.kr) 단보르기니 팀 개발내용
 
 개발 기간 : 2020.08 ~ 2020.10  
 
 주관 : [서울과학기술대학교](http://www.seoultechrobot.com/), 산업통상자원부
 후원 : 한국로봇산업진흥원, (주)로보티즈
 
-대회 결과 : [한국로봇산업진흥원장상(4위)](./PDF/2019_한양대학교_MATHWORKS_특별상.pdf)
+대회 결과 : [한국로봇산업진흥원장상(4위)](./PDF/2020씨름로봇대회_한국로봇산업진흥원장상.pdf)
 
 ## 팀원 구성
 
@@ -35,19 +35,20 @@
 
 <br>
 
-<p align="center"><img src="./Images/Video_01.gif" width="360px"></p>  
-<p align="center"> < Lane Keeping System 테스트 (Velocity : 1200mm/s) ></p>  
+<p align="center"><img src="./Images/Basic_Drive.gif" ></p>  
+<p align="center"> < 경기장 내부 주행 ></p>  
 
-<p align="center"><img src="./Images/Video_02.gif" width="360px"></p>  
-<p align="center"> < Obstacle Avoidance & School Zone AEB 테스트 (Velocity : 1000mm/s) ></p>
+<p align="center"><img src="./Images/Fast1.gif" hspace = 20><img src="./Images/Fast2.gif" ></p>  
+<p align="center"> < 적 로봇 인식 후 가속 공격 > &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp< 후방 인식 후 역공 ></p>
 
-<p align="center"><img src="./Images/Video_03.gif" width="360px"></p>  
-<p align="center"> < Roburtness for Driving Environment (Light) 테스트 (Velocity : 1000mm/s)></p>
+<p align="center"><img src="./Images/Attack.gif" hspace = 20><img src="./Images/Attack2.gif" ></p>  
+<p align="center"> < 적 로봇 인식 후 방향 전환 후 공격></p>
  
-<p align="center"><img src="./Images/Front.png" width="180px" height="160px"> <img src="./Images/Side.png" width="180px" height="160px"></p>  
-<p align="center"> < Autonomotive Car ( Width : 300mm Column : 450mm Height : 300mm ) ></p>  
 
+<p align="center"><img src="./Images/robot.png" width="300px" height="230px"></p>  
+<p align="center"> < Sumo Robot ( Width : 200mm Column : 210mm Height : 130mm ) ></p>  
 
+<!--
 ## 작품 설명  
 
 ### 하드웨어 품목  
@@ -160,5 +161,5 @@ TLE-4271-2는 최대 0.5A, 평균적으로 0.3A정도의 전류가 흘렀고, LM
 
 
 ## Reference
-
+-->
 

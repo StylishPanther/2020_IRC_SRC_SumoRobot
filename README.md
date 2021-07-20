@@ -1,6 +1,6 @@
 # 2020_IRC_SRC_SumoRobot
 
-[단국대학교 MAZE](http://www.maze.co.kr) 단보르기니 팀 개발내용
+[단국대학교 MAZE](http://www.maze.co.kr) Hertz팀 개발내용
 
 개발 기간 : 2020.08 ~ 2020.10  
 

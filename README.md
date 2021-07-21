@@ -80,7 +80,7 @@
 
 ## System Architecture
 <br>
-<p align="center"><img src="./Images/systemarchitecture.PNG"""></p>  
+<p align="center"><img src="./Images/systemarchitecture.PNG"></p>  
 <p align="center"> < System Architecture ></p>  
 
 

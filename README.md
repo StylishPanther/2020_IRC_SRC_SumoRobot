@@ -16,7 +16,7 @@
 |[이진호](https://github.com/StylishPanther)| 전체 지휘 총괄 및 일정 조율, 공격 및 회피 구동 알고리즘 설계 |
 |김원석|센서 퓨전 및 필터 설계| 
 |[이장훈](https://github.com/magatriod7)|하드웨어 설계(Solidworks)|   
-|김민우|대회판 및 하드웨어 제작|   
+|[김민우](https://github.com/minwoo98)|대회판 및 하드웨어 제작|   
 
 ## 작품 목표    
 <br>
